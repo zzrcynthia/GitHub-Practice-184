@@ -40,6 +40,12 @@
 | Andy Wiesner | AndyWiesner | <https://AndyWiesner.github.io/> | 
 | Ken Kalbach | kjk290 | <https://kjk290.github.io/Stat184Assignment1/> |
 | Andy Wiesner | AndyWiesner | <https://AndyWiesner.github.io/> |  
+| Nelson Huang | nelson1998  | <https://nelson1998.github.io/STAT184Assignment1/> |
+| Calvin Lien | cvl4 | <https://cvl4.github.io/STAT184Assignment1/> |
+| Angelo Kwak  | AngeloJKwak | <https://angelojkwak.github.io/STAT_184_Repo/>|
+| Jeffrey Yan | JeffreYan | <https://jeffreyan.github.io/Stat184Assignment1/> |  
+| Jeffrey Yan | JeffreYan | <https://jeffreyan.github.io/184test/> |  
+| Robert Sacks | rmsacks | <https://rmsacks.github.io/stat184> |
 | Zhefeng He | zhefenghe | <https://zhefenghe.github.io/readme/> |  
 | Muthu Nagesh | muthu124    | <https://muthu124.github.io/Stat184Assignment/>    |
 | Luke Morris  | lmm6229  |  <https://lmm6229.github.io/Stat184assignment1/> |
