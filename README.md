@@ -36,6 +36,8 @@
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Nicholas Sterge   | Section 101       | nzs5368         |  <https://nzs5368.github.io/GitHub-Demo/> |  
 | Nick Sterge       | Section 101       |  nzs5368        |  <https://nzs5368.github.io/GitHub-Demo/> |
+| Brandon Martenas  | Section 101       |  bam5993        | <https://bam5993.github.io/GitHub-Demo/>  |
+
 
 <br>
 
