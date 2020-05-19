@@ -36,7 +36,7 @@
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Nicholas Sterge   | Section 101       | nzs5368         |  <https://nzs5368.github.io/GitHub-Demo/> |  
 | Nick Sterge       | Section 101       |  nzs5368        |  <https://nzs5368.github.io/GitHub-Demo/> |
-
+|  Chaolong Shi     | Section 101       |  cfs5552        |  <https://cfs5552.github.io/GitHub-Demo/> |
 <br>
 
 # Integration of RStudio with Git
