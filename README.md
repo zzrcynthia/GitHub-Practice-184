@@ -37,6 +37,7 @@
 | Nicholas Sterge   | Section 101       | nzs5368         |  <https://nzs5368.github.io/GitHub-Demo/> |  
 | Shuyue Sheng      | Section 101       | shuyue-sheng    |  <https://shuyue-sheng.github.io/Shuyue-Sheng-Github/> |
 | Yu Gong           | Section 101       | gmg5384         |  <https://gmg5384.github.io/Stat184-demo/>|
+| Zachary West      | Section 101       | Zwest-psu       |  <https://zwest-psu.github.io/Stat184-practice/>|
 
 
 <br>
