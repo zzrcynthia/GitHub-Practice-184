@@ -36,7 +36,7 @@
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Nicholas Sterge   | Section 101       | nzs5368         |  <https://nzs5368.github.io/GitHub-Demo/> |  
 | Nick Sterge       | Section 101       |  nzs5368        |  <https://nzs5368.github.io/GitHub-Demo/> |
-
+| Yu Gong           | Section 101       | gmg5384         |  <https://gmg5384.github.io/Stat184-demo/>|
 <br>
 
 # Integration of RStudio with Git
