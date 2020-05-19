@@ -37,6 +37,11 @@
 | Nicholas Sterge   | Section 101       | nzs5368         |  <https://nzs5368.github.io/GitHub-Demo/> |  
 | Nick Sterge       | Section 101       |  nzs5368        |  <https://nzs5368.github.io/GitHub-Demo/> |
 | Benjamin Cruciani | Section 101       | bac5711         |  <https://bac5711.github.io/First-Repo/>  |
+| Jiajian Liu       | Section 101       | jpl5976         |  <https://jpl5976.github.io/GitHub-Demo/> |
+| Brandon Martenas  | Section 101       |  bam5993        | <https://bam5993.github.io/GitHub-Demo/>  |
+| Colin Riley       | Section 101       | cqr5347         |  <https://cqr5347.github.io/GitHub-Demo/> |
+| Shuyue Sheng      | Section 101       | shuyue-sheng    |  <https://shuyue-sheng.github.io/Shuyue-Sheng-Github/> |
+| Yu Gong           | Section 101       | gmg5384         |  <https://gmg5384.github.io/Stat184-demo/>|
 
 <br>
 
