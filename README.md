@@ -35,9 +35,19 @@
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Nicholas Sterge   | Section 101       | nzs5368         |  <https://nzs5368.github.io/GitHub-Demo/> |  
+| Nick Sterge       | Section 101       |  nzs5368        |  <https://nzs5368.github.io/GitHub-Demo/> |
+|  Chaolong Shi     | Section 101       |  cfs5552        |  <https://cfs5552.github.io/GitHub-Demo/> |
+| Ruimeng Shao      | Section 101       |  rqs5779        |  <https://rqs5779.github.io/STAT-184/> |
+| Kannan Ramanathan | Section 101       | kjr5518         |  <https://kjr5518.github.io/GitHub-Practice-184/> |
+| Benjamin Cruciani | Section 101       | bac5711         |  <https://bac5711.github.io/First-Repo/>  |
+| Jiajian Liu       | Section 101       | jpl5976         |  <https://jpl5976.github.io/GitHub-Demo/> |
+| Brandon Martenas  | Section 101       |  bam5993        | <https://bam5993.github.io/GitHub-Demo/>  |
+| Colin Riley       | Section 101       | cqr5347         |  <https://cqr5347.github.io/GitHub-Demo/> |
 | Shuyue Sheng      | Section 101       | shuyue-sheng    |  <https://shuyue-sheng.github.io/Shuyue-Sheng-Github/> |
 | Yu Gong           | Section 101       | gmg5384         |  <https://gmg5384.github.io/Stat184-demo/>|
 | Kellien Peritz    | Section 101       | kqp5476         |  <https://kqp5476.github.io/GitHub-Demo/> |
+| Zachary West      | Section 101       | Zwest-psu       |  <https://zwest-psu.github.io/Stat184-practice/>|
+| Aaron Fosmire     | Section 101       | fozzywozzybear  |  <https://fozzywozzybear.github.io/Stat-184-demo-/> |
 
 <br>
 
