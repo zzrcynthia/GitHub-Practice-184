@@ -49,6 +49,10 @@
 | Zachary West      | Section 101       | Zwest-psu       |  <https://zwest-psu.github.io/Stat184-practice/>|
 | Aaron Fosmire     | Section 101       | fozzywozzybear  |  <https://fozzywozzybear.github.io/Stat-184-demo-/> |
 | Qingyu Zhou       | Section 101       | Elijah18808     |  <https://elijah18808.github.io/Github-demo/> |
+| Heyi Xu           | Section 101       | heyamheyi       |  <https://heyamheyi.github.io/Stat-184-practice/>  |
+| Randy Silverman   | Section 101       | ras6262         |  <https://ras6262.github.io/Stat184-Demo/> |
+| Shruti Mahadevan  | Section 101       | shrutipsu       |  <https://shrutipsu.github.io/Github-Practice/> |
+
 <br>
 
 # Integration of RStudio with Git
