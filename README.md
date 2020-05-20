@@ -48,6 +48,7 @@
 | Kellien Peritz    | Section 101       | kqp5476         |  <https://kqp5476.github.io/GitHub-Demo/> |
 | Zachary West      | Section 101       | Zwest-psu       |  <https://zwest-psu.github.io/Stat184-practice/>|
 | Aaron Fosmire     | Section 101       | fozzywozzybear  |  <https://fozzywozzybear.github.io/Stat-184-demo-/> |
+| Zhengrong Zhang   | Section 101       | zzrcynthia      |  <https://zzrcynthia.github.io/GitHub-Demo-STAT-184/> |
 
 <br>
 
